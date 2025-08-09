@@ -1,0 +1,24 @@
+# command: pip freeze > pip_requirements.txt
+# pip freeze 导出的比pip list展示的少了setuptools、pip以及wheel 3个包
+colorama==0.4.6
+contourpy==1.1.1
+cycler==0.12.1
+fonttools==4.57.0
+importlib_resources==6.4.5
+kiwisolver==1.4.7
+matplotlib==3.7.5
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
+packaging==25.0
+pandas==2.0.3
+pillow==10.4.0
+pyparsing==3.1.4
+python-dateutil==2.9.0.post0
+pytz==2025.2
+seaborn==0.13.2
+six==1.17.0
+tqdm==4.67.1
+tzdata==2025.2
+zipp==3.20.2
