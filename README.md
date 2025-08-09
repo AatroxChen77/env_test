@@ -10,6 +10,7 @@
 
 - **Python版本**: 3.8.20
 - **包管理器**: Conda + Pip
+- **Conda版本**: 24.11.3
 - **操作系统**: Windows 10
 - **实验环境名**: envtest/envtest2
 
