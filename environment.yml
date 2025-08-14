@@ -1,6 +1,6 @@
 # 安装与导出测试
 # command: conda env export > environment.yml
-name: envtest2
+name: envtest
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main
@@ -47,4 +47,4 @@ dependencies:
       - tqdm==4.67.1
       - tzdata==2025.2
       - zipp==3.20.2
-prefix: C:\Users\Cavendishes\.conda\envs\envtest
+prefix: C:\Users\Cavendishes\.conda\envs\envtest2
